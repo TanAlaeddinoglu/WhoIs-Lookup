@@ -508,10 +508,7 @@ function displayOtherInfo(array $domainArray) {
     }
 }
 
-/*
-çalışan uzantılar: gov,net,com,org,travel,ru,au,io,edu,cc,name,com.tr,
-çalışmayan uzantılar :nl(registrar modifiye edilmeli),co.uk
-*/
+
 ?>
 
 <!DOCTYPE html>
